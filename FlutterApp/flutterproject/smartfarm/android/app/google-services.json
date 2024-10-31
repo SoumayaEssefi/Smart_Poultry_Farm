@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758551703230",
+    "project_id": "smart-624cb",
+    "storage_bucket": "smart-624cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758551703230:android:cb35af1127cb672cb0f8ef",
+        "android_client_info": {
+          "package_name": "com.example.smartfarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfBMbqeMxCE2iXtUs-d5e8C9CupEl0cBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
